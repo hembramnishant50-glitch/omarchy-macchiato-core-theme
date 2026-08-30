@@ -34,33 +34,6 @@
 
 ---
 
-## 📊 Waybar Variants
-
-### 1. Default Core Bar
-*Full-width with a signature Lavender (`#c29df2`) underline and high-contrast workspace pills.*
-<img src="https://github.com/user-attachments/assets/99253cf4-1465-441e-89bb-b5524d967056" width="100%" alt="Default Waybar" />
-
-### 2. Modern Floating Bar
-*A detached, minimalist pill-style layout with grouped system modules.*
-<img src="https://github.com/user-attachments/assets/2c9823b8-e97f-4ba4-9af6-4362b875716e" width="100%" alt="2nd Waybar" />
-
----
-
-## ✨ Features
-
-- **Solid State UI:** No transparency. No blur. Perfect pixel-clarity.
-- **Integrated Scripts:** Pre-configured tools inside `~/.config/waybar/scripts/`.
-
-| Script | Function |
-|:---|:---|
-| `wg-manager.sh` | 🔐 WireGuard VPN Toggle |
-| `yt-dl.sh` | 🎬 YouTube Media Downloader |
-| `app-killer.sh` | 🗡️ Process Force-Kill Tool |
-| `mac-spoofer.sh` | 🌐 Instant MAC Randomization |
-| `shredder.sh` | 🔥 Secure File Destruction |
-| `tor_firefox_rotator.sh` | 🧅 Tor Identity Rotation |
-
----
 ## 🖼️ Wallpaper Collection
 
 A curated selection of high-resolution backgrounds optimized for the Macchiato color palette.
@@ -90,100 +63,6 @@ Applying this theme is fully automated via the Omarchy theme installer.
 omarchy-theme-install https://github.com/hembramnishant50-glitch/omarchy-macchiato-core-theme.git
 ```
 
-### Manual Waybar Setup
-
-If you want to apply the Waybar config manually, the script below safely backs up your existing config and applies the new one:
-
-```bash
-#!/usr/bin/env bash
-
-# Step 0 — Install Required Fonts
-echo "󰒲 Installing dependencies..."
-sudo pacman -S --needed ttf-jetbrains-mono-nerd otf-font-awesome
-# These are required for the gear icon, calendar grid, and menu rendering.
-
-# Step 1 — Back up your existing Waybar config
-if [ -d ~/.config/waybar ]; then
-    BACKUP_NAME="waybar-backup-$(date +%d-%m-%Y)-$RANDOM"
-    mv ~/.config/waybar ~/.config/"$BACKUP_NAME"
-    echo "✔ Existing config backed up to ~/.config/$BACKUP_NAME"
-fi
-
-# Step 2 — Apply the theme's Waybar config
-SOURCE_DIR="$HOME/.config/omarchy/current/theme/waybar"
-
-if [ -d "$SOURCE_DIR" ]; then
-    mkdir -p ~/.config/waybar
-    cp -r "$SOURCE_DIR"/* ~/.config/waybar/
-    
-    # Ensure scripts are executable, especially setting.sh and ocr-snapper.sh
-    if [ -d ~/.config/waybar/scripts ]; then
-        chmod +x ~/.config/waybar/scripts/*
-    fi
-    echo "✔ Waybar configuration applied successfully."
-else
-    echo "✖ Error: Source directory $SOURCE_DIR not found."
-fi
-
-# Step 3 — Restart Waybar
-killall -q waybar
-nohup waybar > /dev/null 2>&1 &
-echo "✔ Waybar restarted."
-```
-
----
-<div align="center">
-
-## <span style="color: #c19cf2;">🔒 Hyprlock</span> ✦ *Custom Lock Screen*
-
-<br>
-
-<img width="85%" alt="Hyprlock Preview" src="https://github.com/user-attachments/assets/e0bcab31-f896-4fc7-afbd-818a18dd6752" />
-
-<p align="center">
-  <i>Glassmorphism lock screen featuring a live clock, personalized profile greeting, active media controls with visualizers, and quick power options.</i>
-</p>
-
-</div>
-
-<br>
-
-```bash
-# 1. Install Playerctl (required for media key support)
-sudo pacman -S --needed playerctl
-
-# 2. Make scripts executable
-chmod +x ~/.config/omarchy/current/theme/scripts/*
-```
----
-
-> ## ⚠️ IMPORTANT: Fix Black Screen on Lock if it is happening ⚠️
->
-> **How to stop your screen from turning black when you lock it**
->
->
-> **1. Open the file** — Open your terminal, paste this command, and press Enter:
->
-> ```bash
-> nano ~/.local/share/omarchy/bin/omarchy-system-lock
-> ```
->
-> **2. Change one line** — Scroll all the way to the bottom of the file. Find the line that says:
->
-> ```bash
-> omarchy-brightness-display off
-> ```
->
-> Put a `#` symbol at the very start of that line so it looks like this:
->
-> ```bash
-> # omarchy-brightness-display off
-> ```
->
-> **3. Save and Exit**
-> - Press `Ctrl + O` on your keyboard, then press `Enter` to save.
-> - Press `Ctrl + X` to exit the editor.
-
 ---
 <div align="center">
 
@@ -202,11 +81,11 @@ gsettings set org.gnome.desktop.interface icon-theme 'Papirus-Dark'
 # 2. Install and apply Catppuccin Mocha Mauve cursors
 yay -S catppuccin-cursors-mocha
 gsettings set org.gnome.desktop.interface cursor-theme 'Catppuccin-Mocha-Mauve-Cursors'
-
 ```
 
+</div>
 
-
+---
 
 ## 🤝 Contributing
 

@@ -1,47 +1,49 @@
 [colors.primary]
-background = "#1e2030"
+background = "#24273a"
 foreground = "#cad3f5"
 
 [colors.cursor]
-text = "#1e2030"
-cursor = "#f4dbd6" # Rosewater
+text = "#24273a"
+cursor = "#cad3f5"
 
 [colors.vi_mode_cursor]
-text = "#1e2030"
-cursor = "#b7bdf8" # Lavender
+text = "#24273a"
+cursor = "#cad3f5"
 
 [colors.search.matches]
-foreground = "#1e2030"
-background = "#eed49f" # Yellow
+foreground = "#24273a"
+background = "#eed49f"
 
 [colors.search.focused_match]
-foreground = "#1e2030"
-background = "#f5a97f" # Peach
+foreground = "#24273a"
+background = "#ed8796"
 
 [colors.footer_bar]
-foreground = "#1e2030"
+foreground = "#24273a"
 background = "#cad3f5"
 
 [colors.selection]
 text = "#cad3f5"
-background = "#5b6078" # Surface 1
+background = "#363a4f"
 
 [colors.normal]
-black = "#494d64"   # Surface 1
-red = "#ed8796"     # Red
-green = "#a6da95"   # Green
-yellow = "#eed49f"  # Yellow
-blue = "#8aadf4"    # Blue
-magenta = "#f5bde6" # Pink
-cyan = "#8bd5ca"    # Teal
-white = "#b8c0e0"   # Subtext 1
+black = "#24273a"
+red = "#ed8796"
+green = "#a6da95"
+yellow = "#eed49f"
+blue = "#8aadf4"
+magenta = "#f5bde6"
+cyan = "#91d7e3"
+white = "#cad3f5"
 
 [colors.bright]
-black = "#5b6078"   # Surface 2
-red = "#ed8796"     # Red
-green = "#a6da95"   # Green
-yellow = "#eed49f"  # Yellow
-blue = "#8aadf4"    # Blue
-magenta = "#f5bde6" # Pink
-cyan = "#8bd5ca"    # Teal
-white = "#a5adcb"   # Subtext 0
+black = "#5b6078"
+red = "#ed8796"
+green = "#a6da95"
+yellow = "#eed49f"
+blue = "#8aadf4"
+magenta = "#f5bde6"
+cyan = "#91d7e3"
+white = "#cad3f5"
+
+window.padding = { x = 10, y = 10 }

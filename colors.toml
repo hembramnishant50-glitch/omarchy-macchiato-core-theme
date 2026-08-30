@@ -1,27 +1,34 @@
-# Omarchy Catppuccin Macchiato Global Palette
-accent = "#c6a0f6"                # Mauve
-cursor = "#f4dbd6"                # Rosewater
-foreground = "#cad3f5"            # Text
-background = "#1e2030"            # Mantle (Main)
-selection_foreground = "#cad3f5"  # Text
-selection_background = "#5b6078"  # Surface 2
+mode = "dark"
 
-# Normal Colors
-color0 = "#494d64"                # Surface 1 (Black)
-color1 = "#ed8796"                # Red
-color2 = "#a6da95"                # Green
-color3 = "#eed49f"                # Yellow
-color4 = "#8aadf4"                # Blue
-color5 = "#f5bde6"                # Pink (Magenta)
-color6 = "#8bd5ca"                # Teal (Cyan)
-color7 = "#b8c0e0"                # Subtext 1 (White)
+accent = "#8aadf4"
+selection = "#363a4f"
+muted = "#5b6078"
 
-# Bright Colors
-color8 = "#5b6078"                # Surface 2 (Bright Black)
-color9 = "#ed8796"                # Red
-color10 = "#a6da95"               # Green
-color11 = "#eed49f"               # Yellow
-color12 = "#8aadf4"               # Blue
-color13 = "#f5bde6"               # Pink
-color14 = "#8bd5ca"               # Teal
-color15 = "#a5adcb"               # Subtext 0 (Bright White)
+background = "#24273a"
+dark_background = "#1e2030"
+darker_background = "#181926"
+lighter_background = "#363a4f"
+
+foreground = "#cad3f5"
+dark_foreground = "#6e738d"
+light_foreground = "#b8c0e0"
+bright_foreground = "#cad3f5"
+
+red = "#ed8796"
+yellow = "#eed49f"
+orange = "#f5a97f"
+green = "#a6da95"
+cyan = "#91d7e3"
+blue = "#8aadf4"
+magenta = "#f5bde6"
+brown = "#ee99a0"
+
+bright_red = "#ed8796"
+bright_yellow = "#eed49f"
+bright_green = "#a6da95"
+bright_cyan = "#91d7e3"
+bright_blue = "#8aadf4"
+bright_magenta = "#f5bde6"
+
+hyprland_active_border = "#8373ab"
+hyprland_inactive_border = "#8373ab80"
