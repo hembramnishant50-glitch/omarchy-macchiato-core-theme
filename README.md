@@ -30,7 +30,16 @@
 
 ## 🧠 Philosophy
 
-**Macchiato Core** eliminates the performance tax of modern desktops. By using **pure, solid hex colors**. The result is a sharp, high-contrast workspace that feels instantaneous on any hardware.
+**Macchiato Core** delivers a sharp, high-contrast workspace that feels instantaneous on any hardware. Pure solid hex colors paired with **rounded corners**, **frosted blur**, **subtle shadows**, and **smooth animations** for a polished desktop experience.
+
+---
+
+## ✨ Features
+
+- **Rounded Corners** — `rounding: 12` on all windows
+- **Frosted Blur** — 3-pass blur with noise and vibrancy
+- **Drop Shadows** — Subtle depth with dark Macchiato-tinted shadows
+- **Smooth Animations** — Workspace slide+fade, window popin, fade transitions, layer animations
 
 ---
 
