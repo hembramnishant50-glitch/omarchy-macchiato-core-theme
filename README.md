@@ -212,23 +212,6 @@ gsettings set org.gnome.desktop.interface cursor-theme 'Catppuccin-Macchiato-Mau
 ## 🔧 Customization
 
 <details>
-<summary><b>🎨 Change background or border?</b></summary>
-<br>
-
-Edit `colors.toml`:
-```toml
-background = "#1e2030"               # mantle
-hyprland_active_border = "#c6a0f6"   # mauve
-hyprland_inactive_border = "#939ab7" # overlay2
-```
-Then apply it:
-```bash
-omarchy-theme-set macchiato-core
-```
-
-</details>
-
-Already fixed in this theme.
 
 </details>
 
