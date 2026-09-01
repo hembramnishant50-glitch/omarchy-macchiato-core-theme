@@ -46,13 +46,6 @@
 omarchy-theme-clone-set https://github.com/hembramnishant50-glitch/omarchy-macchiato-core-theme.git
 ```
 
-<sub>Manual install</sub>
-
-```bash
-git clone https://github.com/hembramnishant50-glitch/omarchy-macchiato-core-theme ~/.config/omarchy/themes/macchiato-core
-omarchy-theme-set macchiato-core
-```
-
 </div>
 
 <div align="center">
