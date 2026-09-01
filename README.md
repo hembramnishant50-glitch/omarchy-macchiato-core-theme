@@ -69,7 +69,7 @@ Applying this theme is fully automated via the Omarchy theme installer.
 ### Theme Only (Recommended)
 
 ```bash
-omarchy-theme-install https://github.com/hembramnishant50-glitch/omarchy-macchiato-core-theme.git
+omarchy-theme-clone-set https://github.com/hembramnishant50-glitch/omarchy-macchiato-core-theme.git
 ```
 
 ---
