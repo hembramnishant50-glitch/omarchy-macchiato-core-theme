@@ -58,20 +58,18 @@ omarchy-theme-clone-set https://github.com/hembramnishant50-glitch/omarchy-macch
 
 <table>
 <tr>
-<td colspan="2" align="center">
+<td width="50%" align="center">
 <img width="1920" height="1080" alt="Macchiato Core — Preview 1" src="https://github.com/user-attachments/assets/61982524-1c97-4768-99c1-d244a692aa33" />
 </td>
-</tr>
-<tr>
 <td width="50%" align="center">
 <img width="1920" height="1080" alt="Macchiato Core — Preview 2" src="https://github.com/user-attachments/assets/f57995d1-d007-4ca3-96df-05bc76042ef7" />
 </td>
+</tr>
+<tr>
 <td width="50%" align="center">
 <img width="1920" height="1080" alt="Macchiato Core — Preview 3" src="https://github.com/user-attachments/assets/018f5f7f-2dca-4fca-bdf5-197ef1999ba3" />
 </td>
-</tr>
-<tr>
-<td colspan="2" align="center">
+<td width="50%" align="center">
 <img width="2752" height="1536" alt="Macchiato Core — Preview 4" src="https://github.com/user-attachments/assets/45b70ea9-a0d4-46ff-940d-955acebb03aa" />
 </td>
 </tr>
