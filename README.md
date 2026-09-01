@@ -228,15 +228,6 @@ omarchy-theme-set macchiato-core
 
 </details>
 
-<details>
-<summary><b>👻 Ghostty padding error?</b></summary>
-<br>
-
-`padding = 8` is deprecated → use:
-```ini
-window-padding-x = 8
-window-padding-y = 8
-```
 Already fixed in this theme.
 
 </details>
