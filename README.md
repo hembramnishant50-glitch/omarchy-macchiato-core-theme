@@ -44,6 +44,7 @@
 
 ```bash
 omarchy-theme-install https://github.com/hembramnishant50-glitch/omarchy-macchiato-core-theme.git
+rm -rf ~/.config/omarchy/themes/macchiato-core/.git && omarchy theme set macchiato-core
 ```
 
 </div>
