@@ -1,0 +1,35 @@
+/**
+ * @name Omarchy Macchiato
+ * @author @nishant
+ * @version 0.3.0
+ * @description Catppuccin Macchiato - Mantle #1e2030, Mauve active #c6a0f6, Overlay2 inactive #939ab7
+ **/
+
+:root {
+    /* Main Backgrounds - Macchiato */
+    --color00: #1e2030; /* Mantle */
+    --color01: #1e2030; /* Base -> Mantle per request */
+    --color02: #363a4f; /* Surface0 */
+    /* Text & Foregrounds */
+    --color03: #939ab7; /* Overlay2 inactive */
+    --color04: #939ab7; /* Overlay2 */
+    --color05: #cad3f5; /* Text */
+    --color06: #f4dbd6; /* Rosewater */
+    --color07: #b8c0e0; /* Subtext1 */
+    /* Accents */
+    --color08: #ed8796; /* Red */
+    --color09: #f5a97f; /* Peach */
+    --color10: #eed49f; /* Yellow */
+    --color11: #a6da95; /* Green */
+    --color12: #8bd5ca; /* Teal */
+    --color13: #c6a0f6; /* Mauve active */
+    --color14: #f5bde6; /* Pink */
+    --color15: #c6a0f6; /* Border Mauve */
+}
+
+.theme-dark {
+    --accent-color: #c6a0f6;
+    --mention-foreground: #c6a0f6;
+    --mention-background: rgba(198, 160, 246, 0.1);
+    --text-link: #c6a0f6;
+}

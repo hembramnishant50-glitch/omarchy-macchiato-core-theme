@@ -1,0 +1,178 @@
+{
+  "$schema": "https://github.com/fastfetch-cli/fastfetch/raw/dev/doc/json_schema.json",
+  "logo": {
+    "type": "file",
+    "source": "~/.config/omarchy/branding/about.txt",
+    "color": { "1": "#c6a0f6" },
+    "padding": {
+      "top": 2,
+      "right": 6,
+      "left": 2
+    }
+  },
+  "modules": [
+    {
+      "type": "title",
+      "format": "{user-name}@{host-name}",
+      "color": "bold #8aadf4"
+    },
+    "break",
+    {
+      "type": "custom",
+      "format": "\u001b[38;2;91;122;176m┌──────────────────────Hardware──────────────────────┐"
+    },
+    {
+      "type": "host",
+      "key": " PC",
+      "keyColor": "#a6da95"
+    },
+    {
+      "type": "cpu",
+      "key": "│ ├",
+      "showPeCoreCount": true,
+      "keyColor": "#a6da95"
+    },
+    {
+      "type": "gpu",
+      "key": "│ ├",
+      "detectionMethod": "pci",
+      "keyColor": "#a6da95"
+    },
+    {
+      "type": "display",
+      "key": "│ ├󱄄",
+      "keyColor": "#a6da95"
+    },
+    {
+      "type": "disk",
+      "key": "│ ├󰋊",
+      "keyColor": "#a6da95"
+    },
+    {
+      "type": "memory",
+      "key": "│ ├",
+      "keyColor": "#a6da95"
+    },
+    {
+      "type": "temperature",
+      "key": "│ ├󰔄",
+      "keyColor": "#a6da95"
+    },
+    {
+      "type": "swap",
+      "key": "└ └󰓡 ",
+      "keyColor": "#a6da95"
+    },
+    {
+      "type": "custom",
+      "format": "\u001b[38;2;91;122;176m└────────────────────────────────────────────────────┘"
+    },
+    "break",
+    {
+      "type": "custom",
+      "format": "\u001b[38;2;91;122;176m┌──────────────────────Software──────────────────────┐"
+    },
+    {
+      "type": "command",
+      "key": "\ue900 OS",
+      "keyColor": "#8aadf4",
+      "text": "version=$(omarchy-version); echo \"Omarchy $version\""
+    },
+    {
+      "type": "command",
+      "key": "│ ├󰘬",
+      "keyColor": "#8aadf4",
+      "text": "branch=$(omarchy-version-branch); echo \"$branch\""
+    },
+    {
+      "type": "command",
+      "key": "│ ├󰔫",
+      "keyColor": "#8aadf4",
+      "text": "channel=$(omarchy-version-channel); echo \"$channel\""
+    },
+    {
+      "type": "kernel",
+      "key": "│ ├",
+      "keyColor": "#8aadf4"
+    },
+    {
+      "type": "wm",
+      "key": "│ ├",
+      "keyColor": "#8aadf4"
+    },
+    {
+      "type": "de",
+      "key": " DE",
+      "keyColor": "#8aadf4"
+    },
+    {
+      "type": "terminal",
+      "key": "│ ├",
+      "keyColor": "#8aadf4"
+    },
+    {
+      "type": "packages",
+      "key": "│ ├󰏖",
+      "keyColor": "#8aadf4"
+    },
+    {
+      "type": "wmtheme",
+      "key": "│ ├󰉼",
+      "keyColor": "#8aadf4"
+    },
+    {
+      "type": "shell",
+      "key": "│ ├󱘖",
+      "keyColor": "#8aadf4"
+    },
+    {
+      "type": "command",
+      "key": "│ ├󰸌",
+      "keyColor": "#8aadf4",
+      "text": "theme=$(omarchy-theme-current); echo -e \"$theme \\e[38m●\\e[37m●\\e[36m●\\e[35m●\\e[34m●\\e[33m●\\e[32m●\\e[31m●\""
+    },
+    {
+      "type": "terminalfont",
+      "key": "└ └",
+      "keyColor": "#8aadf4"
+    },
+    {
+      "type": "custom",
+      "format": "\u001b[38;2;91;122;176m└────────────────────────────────────────────────────┘"
+    },
+    "break",
+    {
+      "type": "custom",
+      "format": "\u001b[38;2;198;160;246m┌────────────────Age / Uptime / Update───────────────┐"
+    },
+    {
+      "type": "command",
+      "key": "󱦟 OS Age",
+      "keyColor": "#c6a0f6",
+      "text": "echo $(( ($(date +%s) - $(stat -c %W /)) / 86400 )) days"
+    },
+    {
+      "type": "uptime",
+      "key": "󱫐 Uptime",
+      "keyColor": "#c6a0f6"
+    },
+    {
+      "type": "command",
+      "key": " Update",
+      "keyColor": "#c6a0f6",
+      "text": "updated=$(omarchy-version-pkgs); echo \"$updated\""
+    },
+    {
+      "type": "custom",
+      "format": "\u001b[38;2;198;160;246m└────────────────────────────────────────────────────┘"
+    },
+    "break",
+    {
+      "type": "colors",
+      "paddingLeft": 8,
+      "symbol": "circle",
+      "blockWidth": 2
+    },
+    "break"
+  ]
+}
