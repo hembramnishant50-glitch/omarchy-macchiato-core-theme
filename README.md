@@ -43,7 +43,7 @@
 **One command for Omarchy Quattro**
 
 ```bash
-omarchy-theme-installhttps://github.com/hembramnishant50-glitch/omarchy-macchiato-core-theme.git
+omarchy-theme-install https://github.com/hembramnishant50-glitch/omarchy-macchiato-core-theme.git
 ```
 
 </div>
