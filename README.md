@@ -126,28 +126,25 @@ omarchy-theme-clone-set https://github.com/hembramnishant50-glitch/omarchy-macch
 
 <div align="center">
 
-*Macchiato Core for Quattro — `#1e2030` Mantle · `#c6a0f6` Mauve active · `#939ab7` inactive*
-
-<br/>
-
-<img width="1920" height="1080" alt="Macchiato Core — Desktop Preview 1" src="https://github.com/user-attachments/assets/61982524-1c97-4768-99c1-d244a692aa33" />
-
-<br/>
-<sub><b>Desktop</b> · Hyprland · Solid `#1e2030` · Mauve Borders `#c6a0f6`</sub>
+*Mantle `#1e2030` · Mauve `#c6a0f6` · Overlay2 `#939ab7` — Solid Macchiato for Quattro*
 
 <br/><br/>
 
-<img width="1920" height="1080" alt="Macchiato Core — Desktop Preview 2" src="https://github.com/user-attachments/assets/f57995d1-d007-4ca3-96df-05bc76042ef7" />
-
-<br/>
-<sub><b>Workspace</b> · 12px Rounding · Frosted Blur</sub>
-
-<br/><br/>
-
-<img width="1920" height="1080" alt="Macchiato Core — Desktop Preview 3" src="https://github.com/user-attachments/assets/018f5f7f-2dca-4fca-bdf5-197ef1999ba3" />
-
-<br/>
-<sub><b>Shell</b> · Popups & Launcher · Mauve `#c6a0f6` Active</sub>
+<table>
+<tr>
+<td colspan="2" align="center">
+<img width="1920" height="1080" alt="Macchiato Core — Preview 1" src="https://github.com/user-attachments/assets/61982524-1c97-4768-99c1-d244a692aa33" />
+</td>
+</tr>
+<tr>
+<td width="50%" align="center">
+<img width="1920" height="1080" alt="Macchiato Core — Preview 2" src="https://github.com/user-attachments/assets/f57995d1-d007-4ca3-96df-05bc76042ef7" />
+</td>
+<td width="50%" align="center">
+<img width="1920" height="1080" alt="Macchiato Core — Preview 3" src="https://github.com/user-attachments/assets/018f5f7f-2dca-4fca-bdf5-197ef1999ba3" />
+</td>
+</tr>
+</table>
 
 </div>
 
