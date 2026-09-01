@@ -2,17 +2,17 @@
   "$schema": "https://raw.githubusercontent.com/earendil-works/pi/main/packages/coding-agent/src/modes/interactive/theme/theme-schema.json",
   "name": "omarchy-system",
   "vars": {
-    "background": "#24273a",
+    "background": "#1e2030",
     "foreground": "#cad3f5",
-    "accent": "#8aadf4",
+    "accent": "#c6a0f6",
     "selectionBackground": "#363a4f",
     "selectionForeground": "#cad3f5",
     "selectedBackground": "#3a4463",
-    "color0": "#24273a",
+    "color0": "#1e2030",
     "color1": "#ed8796",
     "color2": "#a6da95",
     "color3": "#eed49f",
-    "color4": "#8aadf4",
+    "color4": "#c6a0f6",
     "color5": "#f5bde6",
     "color6": "#91d7e3",
     "color7": "#cad3f5",
@@ -20,7 +20,7 @@
     "color9": "#ed8796",
     "color10": "#a6da95",
     "color11": "#eed49f",
-    "color12": "#8aadf4",
+    "color12": "#c6a0f6",
     "color13": "#f5bde6",
     "color14": "#91d7e3",
     "color15": "#cad3f5",
@@ -29,8 +29,8 @@
     "panelPending": "#303750",
     "panelSuccess": "#343c45",
     "panelError": "#3c3345",
-    "border": "#565b72",
-    "borderMuted": "#45495f",
+    "border": "#939ab7",
+    "borderMuted": "#494d64",
     "mutedText": "#9299b5",
     "dimText": "#747a94"
   },
@@ -88,7 +88,7 @@
     "bashMode": "color3"
   },
   "export": {
-    "pageBg": "#24273a",
+    "pageBg": "#1e2030",
     "cardBg": "#2e3145",
     "infoBg": "#35384d"
   }

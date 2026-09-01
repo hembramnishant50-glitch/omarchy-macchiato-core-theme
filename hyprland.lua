@@ -2,15 +2,15 @@ hl.config({
   general = {
     border_size = 2,
     col = {
-      active_border = "#8373ab",
-      inactive_border = "#8373ab80",
+      active_border = "#c6a0f6",
+      inactive_border = "#939ab7",
     },
   },
 
   group = {
     col = {
-      border_active = "#f2bbe4",
-      border_inactive = "#f2bbe480",
+      border_active = "#c6a0f6",
+      border_inactive = "#939ab780",
     },
   },
 

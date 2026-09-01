@@ -1,5 +1,5 @@
 # Main background, empty for terminal default, need to be empty if you want transparent background
-theme[main_bg]="#24273a"
+theme[main_bg]="#1e2030"
 
 # Main text color
 theme[main_fg]="#cad3f5"
@@ -14,7 +14,7 @@ theme[hi_fg]="#8aadf4"
 theme[selected_bg]="#363a4f"
 
 # Foreground color of selected item in processes box
-theme[selected_fg]="#8aadf4"
+theme[selected_fg]="#c6a0f6"
 
 # Color of inactive/disabled text
 theme[inactive_fg]="#5b6078"
@@ -32,7 +32,7 @@ theme[proc_misc]="#b8c0e0"
 theme[cpu_box]="#f5bde6"
 theme[mem_box]="#a6da95"
 theme[net_box]="#ed8796"
-theme[proc_box]="#8aadf4"
+theme[proc_box]="#c6a0f6"
 
 # Box divider line and small boxes line color
 theme[div_line]="#5b6078"
@@ -83,7 +83,7 @@ theme[process_mid]="#8aadf4"
 theme[process_end]="#f5bde6"
 
 # Graph gradient colors (spectrum shades from background to foreground)
-theme[gradient_color_0]="#24273a"
+theme[gradient_color_0]="#1e2030"
 theme[gradient_color_1]="#363a4f"
 theme[gradient_color_2]="#363a4f"
 theme[gradient_color_3]="#5b6078"

@@ -15,7 +15,7 @@ $line_break\
 $character"""
 
 [character]
-success_symbol = "[❯](bold #8373ab)"
+success_symbol = "[❯](bold #c6a0f6)"
 error_symbol = "[✗](bold #ed8796)"
 
 [username]

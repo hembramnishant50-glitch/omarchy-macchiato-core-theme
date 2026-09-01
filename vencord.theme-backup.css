@@ -9,7 +9,7 @@
     /* Main Backgrounds */
     --color00: #1e2030; /* Mantle - Darkest */
     --color01: #1e2030; /* Base */
-    --color02: #24273a; /* Surface0 */
+    --color02: #363a4f; /* Surface0 */
     
     /* Text & Foregrounds */
     --color03: #5b6078; /* Surface2 */
@@ -24,15 +24,15 @@
     --color10: #eed49f; /* Yellow */
     --color11: #a6da95; /* Green */
     --color12: #8bd5ca; /* Teal */
-    --color13: #be9aee; /* Your Custom Purple Accent */
+    --color13: #c6a0f6; /* Mauve - active #c6a0f6 */
     --color14: #f5bde6; /* Pink */
-    --color15: #c29df2; /* Border Purple */
+    --color15: #c6a0f6; /* Border Mauve #c6a0f6 */
 }
 
 /* Optional: Forced overrides for Vencord to ensure your purple pops */
 .theme-dark {
-    --accent-color: #be9aee;
-    --mention-foreground: #be9aee;
-    --mention-background: rgba(190, 154, 238, 0.1);
-    --text-link: #8aadf4;
+    --accent-color: #c6a0f6;
+    --mention-foreground: #c6a0f6;
+    --mention-background: rgba(198, 160, 246, 0.1);
+    --text-link: #c6a0f6;
 }

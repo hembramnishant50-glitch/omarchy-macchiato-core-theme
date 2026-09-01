@@ -4,11 +4,11 @@
 
 [bar]
 # Alpha companions (where present) range from 0 (invisible) to 1 (opaque).
-background       = "#24273a"
+background       = "#1e2030"
 background-alpha = 1.0
 text             = "#cad3f5"
 # Modules calling attention to themselves (recording, voxtype, alerts, updates)
-active           = "#ed8796"
+active           = "#c6a0f6"
 # Cross-axis size at font base-size 12. size-horizontal is the height of
 # top/bottom bars; size-vertical is the width of left/right bars. With
 # scale-with-font enabled, these grow/shrink with [font] base-size.
@@ -20,8 +20,8 @@ size-vertical    = 28
 # Shared Hyprland-derived border tokens. Surface sections reference these so
 # lock, notifications, popups, and menu-style cards stay aligned with the
 # current Hyprland active-border gradient.
-active-border            = "#f2bbe4"
-active-border-foreground = "#f2bbe4"
+active-border            = "#c6a0f6"
+active-border-foreground = "#c6a0f6"
 
 [controls]
 # Shared state tokens for interactive control chrome (buttons, dropdowns,
@@ -124,66 +124,66 @@ base-size = 12
 # Border accepts either a solid color or a Hyprland-style gradient. Border
 # widths accept one CSS-style scalar/list: N, "Y X", "T X B", or "T R B L";
 # individual border-width-top/right/bottom/left keys override the list.
-background       = "#24273a"
+background       = "#1e2030"
 background-alpha = 1.0
 text             = "#cad3f5"
-border           = "hyprland.active-border"
+border           = "#c6a0f6"
 border-alpha     = 1.0
 # border-width     = 2
 
 [tooltip]
 # Hover tooltips across the bar, panels, and buttons. background-alpha of
 # 0.97 mirrors the legacy hard-coded tooltip opacity.
-background       = "#24273a"
+background       = "#1e2030"
 background-alpha = 0.97
 text             = "#cad3f5"
-border           = "hyprland.active-border-foreground"
+border           = "#c6a0f6"
 border-alpha     = 1.0
 
 [notifications]
-background       = "#24273a"
+background       = "#1e2030"
 background-alpha = 1.0
 text             = "#cad3f5"
 # Conventionally matches the Hyprland active-window border. Border accepts
 # either a solid color or the full active-border gradient.
-border           = "hyprland.active-border"
+border           = "#c6a0f6"
 border-alpha     = 1.0
 # border-width     = 2
-countdown        = "#8aadf4"
+countdown        = "#c6a0f6"
 
 [launcher]
 # Same six tokens as [menu], applied to the launcher overlay. Alpha
 # companions go from 0 (invisible) to 1 (opaque). scrim is the full-screen
 # dim layer behind the card; background is the card itself. Defaults
 # mirror [menu] with the card at 0.95 to preserve the legacy translucency.
-background                = "#24273a"
+background                = "#1e2030"
 background-alpha          = 0.95
 text                      = "#cad3f5"
-border                    = "hyprland.active-border-foreground"
+border                    = "#c6a0f6"
 border-alpha              = 1.0
-scrim                     = "#24273a"
+scrim                     = "#1e2030"
 scrim-alpha               = 0.5
-selected-background       = "#8373ab"
+selected-background       = "#c6a0f6"
 selected-background-alpha = 0.28
 selected-text             = "#f5bde6"
-selected-border           = "hyprland.active-border-foreground"
+selected-border           = "#c6a0f6"
 selected-border-alpha     = 0.25
 
 [menu]
 # Cards, rows, and selected-row treatment. Alpha companions (where present)
 # go from 0 (invisible) to 1 (opaque). scrim is the full-screen dim layer
 # behind the card. Clipboard and emojis inherit these tokens.
-background                = "#24273a"
+background                = "#1e2030"
 background-alpha          = 1.0
 text                      = "#cad3f5"
-border                    = "hyprland.active-border-foreground"
+border                    = "#c6a0f6"
 border-alpha              = 1.0
-scrim                     = "#24273a"
+scrim                     = "#1e2030"
 scrim-alpha               = 0.5
-selected-background       = "#8373ab"
+selected-background       = "#c6a0f6"
 selected-background-alpha = 0.28
 selected-text             = "#f5bde6"
-selected-border           = "hyprland.active-border-foreground"
+selected-border           = "#c6a0f6"
 selected-border-alpha     = 0.25
 
 [polkit]
@@ -192,17 +192,17 @@ selected-border-alpha     = 0.25
 # text-error tints the lock icon, password text, and placeholder when
 # authentication fails. border-alpha applies to both border and
 # border-error (the two states are mutually exclusive in time).
-background       = "#24273a"
+background       = "#1e2030"
 background-alpha = 1.0
 text             = "#cad3f5"
 text-error       = "#ed8796"
-border           = "hyprland.active-border"
+border           = "#c6a0f6"
 border-error     = "#ed8796"
 border-alpha     = 1.0
-scrim            = "#24273a"
+scrim            = "#1e2030"
 scrim-alpha      = 0.5
 # accent is the lock-icon glyph color + text-selection tint.
-accent           = "#8aadf4"
+accent           = "#c6a0f6"
 
 [lock]
 # Lock screen password input. background/background-alpha control the
@@ -210,17 +210,17 @@ accent           = "#8aadf4"
 # through idle, typing/authenticating, and wrong-password states.
 # border-alpha applies to all three border states (they are mutually
 # exclusive in time).
-background       = "#24273a"
+background       = "#1e2030"
 background-alpha = 0.8
 text             = "#cad3f5"
-placeholder      = "#9299b5"
+placeholder      = "#939ab7"
 text-error       = "#ed8796"
-border           = "hyprland.active-border"
-border-active    = "hyprland.active-border"
+border           = "#939ab7"
+border-active    = "#c6a0f6"
 border-error     = "#ed8796"
 border-alpha     = 1.0
 # selection is the text-selection tint inside the input field.
-selection        = "#8aadf4"
+selection        = "#c6a0f6"
 selection-alpha  = 0.45
 
 [image-picker]
@@ -228,10 +228,10 @@ selection-alpha  = 0.45
 # the full-screen wash. Per-slice dim overlays and text outlines on top
 # of the scrim track the foundational background color directly.
 # unselected-border-alpha softens carousel slices that aren't selected.
-scrim                   = "#24273a"
+scrim                   = "#1e2030"
 scrim-alpha             = 0.5
 text                    = "#cad3f5"
-selected-border         = "#8aadf4"
+selected-border         = "#c6a0f6"
 selected-border-alpha   = 1.0
-unselected-border       = "#cad3f5"
+unselected-border       = "#939ab7"
 unselected-border-alpha = 0.28

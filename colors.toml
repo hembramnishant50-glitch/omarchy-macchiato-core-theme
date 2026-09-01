@@ -1,10 +1,10 @@
 mode = "dark"
 
-accent = "#8aadf4"
+accent = "#c6a0f6"
 selection = "#363a4f"
 muted = "#5b6078"
 
-background = "#24273a"
+background = "#1e2030"
 dark_background = "#1e2030"
 darker_background = "#181926"
 lighter_background = "#363a4f"
@@ -21,6 +21,7 @@ green = "#a6da95"
 cyan = "#91d7e3"
 blue = "#8aadf4"
 magenta = "#f5bde6"
+rosewater = "#f4dbd6"
 brown = "#ee99a0"
 
 bright_red = "#ed8796"
@@ -30,5 +31,5 @@ bright_cyan = "#91d7e3"
 bright_blue = "#8aadf4"
 bright_magenta = "#f5bde6"
 
-hyprland_active_border = "#8373ab"
-hyprland_inactive_border = "#8373ab80"
+hyprland_active_border = "#c6a0f6"
+hyprland_inactive_border = "#939ab7"

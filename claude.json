@@ -2,15 +2,15 @@
   "name": "Omarchy",
   "base": "dark",
   "overrides": {
-    "claude": "#8aadf4",
+    "claude": "#c6a0f6",
     "claudeShimmer": "#a0baf4",
     "text": "#cad3f5",
-    "inverseText": "#24273a",
+    "inverseText": "#1e2030",
     "inactive": "#888eaa",
     "inactiveShimmer": "#a1a8c6",
     "subtle": "#5b6078",
     "suggestion": "#91d7e3",
-    "permission": "#8aadf4",
+    "permission": "#c6a0f6",
     "permissionShimmer": "#a0baf4",
     "remember": "#eed49f",
     "success": "#a6da95",
@@ -18,7 +18,7 @@
     "warning": "#eed49f",
     "warningShimmer": "#e1d4bd",
     "merged": "#f5bde6",
-    "promptBorder": "#8aadf4",
+    "promptBorder": "#c6a0f6",
     "promptBorderShimmer": "#a0baf4",
     "planMode": "#91d7e3",
     "autoAccept": "#eed49f",
@@ -35,9 +35,9 @@
     "bashMessageBackgroundColor": "#2e3145",
     "memoryBackgroundColor": "#2e3145",
     "selectionBg": "#363a4f",
-    "rate_limit_fill": "#8aadf4",
+    "rate_limit_fill": "#c6a0f6",
     "rate_limit_empty": "#45495f",
     "briefLabelYou": "#eed49f",
-    "briefLabelClaude": "#8aadf4"
+    "briefLabelClaude": "#c6a0f6"
   }
 }

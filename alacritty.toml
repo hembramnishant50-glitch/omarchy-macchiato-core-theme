@@ -1,25 +1,25 @@
 [colors.primary]
-background = "#24273a"
+background = "#1e2030"
 foreground = "#cad3f5"
 
 [colors.cursor]
-text = "#24273a"
+text = "#1e2030"
 cursor = "#cad3f5"
 
 [colors.vi_mode_cursor]
-text = "#24273a"
+text = "#1e2030"
 cursor = "#cad3f5"
 
 [colors.search.matches]
-foreground = "#24273a"
+foreground = "#1e2030"
 background = "#eed49f"
 
 [colors.search.focused_match]
-foreground = "#24273a"
-background = "#ed8796"
+foreground = "#1e2030"
+background = "#c6a0f6"
 
 [colors.footer_bar]
-foreground = "#24273a"
+foreground = "#1e2030"
 background = "#cad3f5"
 
 [colors.selection]
@@ -27,7 +27,7 @@ text = "#cad3f5"
 background = "#363a4f"
 
 [colors.normal]
-black = "#24273a"
+black = "#1e2030"
 red = "#ed8796"
 green = "#a6da95"
 yellow = "#eed49f"
