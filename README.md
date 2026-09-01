@@ -126,33 +126,30 @@ omarchy-theme-clone-set https://github.com/hembramnishant50-glitch/omarchy-macch
 
 <div align="center">
 
-<table>
-<tr>
-<td width="50%"><img src="https://github.com/user-attachments/assets/9b2c57c7-2f93-46e3-a11b-d5ae2584e0bd" width="100%"/><br><sub><b>Desktop</b> · Bar + Windows</sub></td>
-<td width="50%"><img src="https://github.com/user-attachments/assets/d251947f-19d0-4250-9b22-52e82d997fce" width="100%"/><br><sub><b>Workspace</b> · Blur + Rounding</sub></td>
-</tr>
-<tr>
-<td width="50%"><img src="https://github.com/user-attachments/assets/3b426c85-6441-429b-aa31-f9cb4d8587c8" width="100%"/><br><sub><b>Popups</b> · Mauve Borders</sub></td>
-<td width="50%"><img src="https://github.com/user-attachments/assets/9fcc4fbe-78c6-43e7-9661-0a34a5a99cc6" width="100%"/><br><sub><b>Launcher</b> · Solid `#1e2030`</sub></td>
-</tr>
-<tr>
-<td width="50%"><img src="https://github.com/user-attachments/assets/c5ca0c5a-8ee9-446f-94f4-f18edd92ef0a" width="100%"/><br><sub><b>Editor</b> · Macchiato Syntax</sub></td>
-<td width="50%"><img src="https://github.com/user-attachments/assets/07ae57bc-a7e2-4f5f-af8f-03601c9a6075" width="100%"/><br><sub><b>Terminal</b> · Palette</sub></td>
-</tr>
-</table>
+*Macchiato Core for Quattro — `#1e2030` Mantle · `#c6a0f6` Mauve active · `#939ab7` inactive*
+
+<br/>
+
+<img width="1920" height="1080" alt="Macchiato Core — Desktop Preview 1" src="https://github.com/user-attachments/assets/61982524-1c97-4768-99c1-d244a692aa33" />
+
+<br/>
+<sub><b>Desktop</b> · Hyprland · Solid `#1e2030` · Mauve Borders `#c6a0f6`</sub>
+
+<br/><br/>
+
+<img width="1920" height="1080" alt="Macchiato Core — Desktop Preview 2" src="https://github.com/user-attachments/assets/f57995d1-d007-4ca3-96df-05bc76042ef7" />
+
+<br/>
+<sub><b>Workspace</b> · 12px Rounding · Frosted Blur</sub>
+
+<br/><br/>
+
+<img width="1920" height="1080" alt="Macchiato Core — Desktop Preview 3" src="https://github.com/user-attachments/assets/018f5f7f-2dca-4fca-bdf5-197ef1999ba3" />
+
+<br/>
+<sub><b>Shell</b> · Popups & Launcher · Mauve `#c6a0f6` Active</sub>
 
 </div>
-
-<details>
-<summary align="center"><b>📸 More screenshots</b></summary>
-<br>
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/589893424-c5ca0c5a-8ee9-446f-94f4-f18edd92ef0a.png" width="48%"/>
-  <img src="https://github.com/user-attachments/assets/604076023-07ae57bc-a7e2-4f5f-af8f-03601c9a6075.png" width="48%"/>
-</p>
-
-</details>
 
 <br/>
 
@@ -160,14 +157,16 @@ omarchy-theme-clone-set https://github.com/hembramnishant50-glitch/omarchy-macch
 
 <div align="center">
 
-*Curated for `Mantle #1e2030` + `Mauve #c6a0f6` — dark, muted, Macchiato-native*
+*Curated for `Mantle #1e2030` + `Mauve #c6a0f6` — 15 high-res Macchiato wallpapers*
 
 | | | | |
 |:---:|:---:|:---:|:---:|
-| <img src="https://github.com/user-attachments/assets/e402f7cb-4cab-4453-ac31-9d769c705983" width="100%"/> | <img src="https://github.com/user-attachments/assets/fcc85c03-9061-4462-b066-a2a067615506" width="100%"/> | <img src="https://github.com/user-attachments/assets/6f2c1b15-2aa5-4e92-9035-7948bf494a68" width="100%"/> | <img src="https://github.com/user-attachments/assets/62efbebb-ca9a-4a01-b7c6-d325e8cf6959" width="100%"/> |
-| <img src="https://github.com/user-attachments/assets/10f33015-a08a-4267-a42d-eee056e8663d" width="100%"/> | <img src="https://github.com/user-attachments/assets/92ec24f1-6841-4caf-9700-38ae415ef14e" width="100%"/> | <img src="https://github.com/user-attachments/assets/ecd07836-10c4-4559-b9dd-ef0eedd5df92" width="100%"/> | <img src="https://github.com/user-attachments/assets/6e636ca5-09fc-4114-ad03-113a6c17c027" width="100%"/> |
+| <img width="7680" height="4320" alt="Wallpaper 1" src="https://github.com/user-attachments/assets/6dc6b210-104c-4111-b981-08f082e990d6" /> | <img width="3840" height="2160" alt="Wallpaper 2" src="https://github.com/user-attachments/assets/f5edc465-cec2-4dc1-9938-19bec8196f97" /> | <img width="3840" height="2160" alt="Wallpaper 3" src="https://github.com/user-attachments/assets/1992a84f-5fc2-4ce9-a19a-24e5de4c6124" /> | <img width="3840" height="2160" alt="Wallpaper 4" src="https://github.com/user-attachments/assets/0567be92-0e1d-4516-8cf4-3310710d9289" /> |
+| <img width="3840" height="2160" alt="Wallpaper 5" src="https://github.com/user-attachments/assets/1f513433-76f8-4d89-9c36-8ac268deb2f2" /> | <img width="3840" height="2160" alt="Wallpaper 6" src="https://github.com/user-attachments/assets/46a96316-20f8-4aeb-a74c-8657a8455f9f" /> | <img width="5120" height="2880" alt="Wallpaper 7" src="https://github.com/user-attachments/assets/43c10b24-6ba4-4a9b-91fa-79d3e998c7f3" /> | <img width="3840" height="2160" alt="Wallpaper 8" src="https://github.com/user-attachments/assets/16986084-e040-42ca-9f9b-b25da05af01b" /> |
+| <img width="3840" height="2160" alt="Wallpaper 9" src="https://github.com/user-attachments/assets/0b4f4fbd-0c09-41b3-9b8d-877485e70fe3" /> | <img width="3840" height="2160" alt="Wallpaper 10" src="https://github.com/user-attachments/assets/73c30f25-2cb9-4e15-9b85-763900014f48" /> | <img width="7680" height="4320" alt="Wallpaper 11" src="https://github.com/user-attachments/assets/44828f1b-7a40-47d0-b339-f7fee312b1f9" /> | <img width="3840" height="2160" alt="Wallpaper 12" src="https://github.com/user-attachments/assets/d31d7ed0-e198-46b1-8944-43c5b67218a5" /> |
+| <img width="7680" height="4320" alt="Wallpaper 13" src="https://github.com/user-attachments/assets/27154bb9-137f-4acb-a14d-d57862c83c60" /> | <img width="7680" height="4320" alt="Wallpaper 14" src="https://github.com/user-attachments/assets/ba508d5b-4b1a-4273-9cdd-ee74af11c143" /> | <img width="3840" height="2160" alt="Wallpaper 15" src="https://github.com/user-attachments/assets/c89bc57d-7e89-4712-b9a3-79ebdf37df5b" /> |  |
 
-*All wallpapers in [`backgrounds/`](./backgrounds)*
+*All 15 wallpapers optimized for `Mantle #1e2030` · also in [`backgrounds/`](./backgrounds)*
 
 </div>
 
