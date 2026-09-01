@@ -52,6 +52,30 @@ omarchy-theme-clone-set https://github.com/hembramnishant50-glitch/omarchy-macch
 <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/rainbow-border.gif" width="100%" height="4px"/>
 </div>
 
+## 🖥️ Preview
+
+<div align="center">
+
+<table>
+<tr>
+<td colspan="2" align="center">
+<img width="1920" height="1080" alt="Macchiato Core — Preview 1" src="https://github.com/user-attachments/assets/61982524-1c97-4768-99c1-d244a692aa33" />
+</td>
+</tr>
+<tr>
+<td width="50%" align="center">
+<img width="1920" height="1080" alt="Macchiato Core — Preview 2" src="https://github.com/user-attachments/assets/f57995d1-d007-4ca3-96df-05bc76042ef7" />
+</td>
+<td width="50%" align="center">
+<img width="1920" height="1080" alt="Macchiato Core — Preview 3" src="https://github.com/user-attachments/assets/018f5f7f-2dca-4fca-bdf5-197ef1999ba3" />
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
 ## 📑 Contents
 
 <div align="center">
@@ -122,33 +146,7 @@ omarchy-theme-clone-set https://github.com/hembramnishant50-glitch/omarchy-macch
 
 <br/>
 
-## 🖥️ Preview
 
-<div align="center">
-
-*Mantle `#1e2030` · Mauve `#c6a0f6` · Overlay2 `#939ab7` — Solid Macchiato for Quattro*
-
-<br/><br/>
-
-<table>
-<tr>
-<td colspan="2" align="center">
-<img width="1920" height="1080" alt="Macchiato Core — Preview 1" src="https://github.com/user-attachments/assets/61982524-1c97-4768-99c1-d244a692aa33" />
-</td>
-</tr>
-<tr>
-<td width="50%" align="center">
-<img width="1920" height="1080" alt="Macchiato Core — Preview 2" src="https://github.com/user-attachments/assets/f57995d1-d007-4ca3-96df-05bc76042ef7" />
-</td>
-<td width="50%" align="center">
-<img width="1920" height="1080" alt="Macchiato Core — Preview 3" src="https://github.com/user-attachments/assets/018f5f7f-2dca-4fca-bdf5-197ef1999ba3" />
-</td>
-</tr>
-</table>
-
-</div>
-
-<br/>
 
 ## 🖼️ Wallpaper Collection
 
