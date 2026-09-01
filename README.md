@@ -209,10 +209,6 @@ gsettings set org.gnome.desktop.interface cursor-theme 'Catppuccin-Macchiato-Mau
 
 <br/>
 
-## 🔧 Customization
-
-<details>
-
 </details>
 
 <br/>
