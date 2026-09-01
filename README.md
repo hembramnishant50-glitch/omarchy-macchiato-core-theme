@@ -243,6 +243,30 @@ Already fixed in this theme.
 
 <br/>
 
+## 💖 Credits & Attribution
+
+<div align="center">
+
+This theme's color palette and design language are built on top of the **Catppuccin** project, and follow the theme structure of **Omarchy's** built-in Catppuccin theme.
+
+</div>
+
+| Project | Role | License |
+|:--------|:-----|:--------|
+| **[Catppuccin](https://github.com/catppuccin/catppuccin)** | Color palette, design language, logos & brand assets that this theme is derived from | [MIT](https://github.com/catppuccin/catppuccin/blob/main/LICENSE) |
+| **[Omarchy](https://omarchy.org)** | Distribution & shell this theme targets; ships its own built-in Catppuccin theme this project follows | [MIT](https://github.com/omacom/omarchy/blob/quattro/LICENSE) |
+| **Hyprland** | Window manager theme target | [BSD-3-Clause](https://github.com/hyprwm/Hyprland/blob/main/LICENSE) |
+
+<br/>
+
+> **Palette used (Catppuccin Macchiato):** Carbon-black `#1e2030` mantle, `#c6a0f6` mauve, `#939ab7` overlay2, plus the standard Catppuccin Macchiato accent set (red `#ed8796`, peach `#f5a97f`, yellow `#eed49f`, green `#a6da95`, blue `#8aadf4`, etc.).
+>
+> The Catppuccin palette is licensed under the [MIT License](https://github.com/catppuccin/catppuccin/blob/main/LICENSE). The bundled wallpapers in [`backgrounds/`](./backgrounds) are sourced from the **Catppuccin** community collection — see [catppuccin/wallpapers](https://github.com/catppuccin/wallpapers) for the individual contributors, who retain their own rights.
+
+</div>
+
+<br/>
+
 ## 🤝 Contributing
 
 <div align="center">
